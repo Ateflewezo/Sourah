@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "337222337648",
+    "firebase_url": "https://soura-7f622.firebaseio.com",
+    "project_id": "soura-7f622",
+    "storage_bucket": "soura-7f622.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:337222337648:android:38956f7e3fbc365a",
+        "android_client_info": {
+          "package_name": "com.example.hdwallpapers"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "337222337648-udlo03aosnbk7kqej8951kl7tcc6sk7d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA4hINxNdOsWuZPk9XUqaF-yMzPXtoQw44"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "337222337648-udlo03aosnbk7kqej8951kl7tcc6sk7d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:337222337648:android:ced379cbd7237f9b",
+        "android_client_info": {
+          "package_name": "com.waitbuzz.sourah"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "337222337648-udlo03aosnbk7kqej8951kl7tcc6sk7d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA4hINxNdOsWuZPk9XUqaF-yMzPXtoQw44"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "337222337648-udlo03aosnbk7kqej8951kl7tcc6sk7d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
